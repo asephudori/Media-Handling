@@ -12,7 +12,8 @@ app.get('/', (req, res) => {
     return res.json({
         status: true,
         message: 'hello world',
-        
+        error: null,
+        data: null,
     })
 })
 
