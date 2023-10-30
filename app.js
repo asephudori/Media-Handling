@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
         status: true,
         message: 'hello world',
         error: null,
-        data: null
+        data: null,
     })
 })
 
