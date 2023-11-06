@@ -9,3 +9,5 @@ Content-Type: application/json
     "qr_data":"https://imagekit.io"
 }
 
+###
+GET http://localhost:3000/
